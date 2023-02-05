@@ -1,4 +1,8 @@
 # 🔭 KTH Computer Science (Datateknik) Courses
+- [ELEC3120 - Computer Communication Networks](https://github.com/CasperKristiansson/Computer-Communication-Networks-ELEC3120)
+- [COMP3511- Operating Systems](https://github.com/CasperKristiansson/Operating-Systems-COMP3511)
+- [COMP3111- Software Engineering](https://github.com/CasperKristiansson/Software-Engineering-COMP3111)
+- [COMP3632 - Principles of Cybersecurity](https://github.com/CasperKristiansson/Principles-of-Cybersecurity-COMP3632)
 - [II1302 - Weather Predictor Course Project](https://github.com/CasperKristiansson/Weather-Predictor)
 - [ID1019 - Programming II](https://github.com/CasperKristiansson/Programming-II-ID1019)
 - [IK1203 - Networks and Communication](https://github.com/CasperKristiansson/Networks-and-Communication-IK1203)
@@ -10,6 +14,44 @@
 - [IS1200 - Ping Pong Mini Project](https://github.com/CasperKristiansson/Ping-Pong-in-C-Using-Chipkit32-IS1200)
 - [IS1200 - Computer Hardware Engineering](https://github.com/CasperKristiansson/Computer-Hardware-Engineering-IS1200)
 - [ID1018 - Programming I](https://github.com/CasperKristiansson/Programmering-I-ID1018)
+
+
+## [ELEC3120 - Computer Communication Networks](https://github.com/CasperKristiansson/Computer-Communication-Networks-ELEC3120)
+Overview of computer networks: network architecture and switching techniques. Introduction to the Internet, network programming, and layer architecture. Application layer: HTTP, FTP, SMTP, and CDN. Transport layer: TCP and UDP. Network layer: IP routing, NAT, and DHCP. Data link layer and local area networks: MAC protocols, Ethernet, and hubs/bridges/switches.
+
+### Course Outline
+
+- Introduction
+- Application Layer
+- Transport Layer
+- Network Layer: The Data Plane
+- Network Layer: The Control Plane
+- Link Layer and LANs
+
+
+## [COMP3511- Operating Systems](https://github.com/CasperKristiansson/Operating-Systems-COMP3511)
+### Course Description
+This is an introductory course on operating systems. The topics include the basic concepts of operating systems, process and threads, inter-process communications, process synchronization, scheduling, deadlock, memory allocation, page and segmentation, secondary storage, I/O systems, file systems, basic security and protection. It contains the key concepts as well as examples drawn from a variety of real systems in particular from Linux.
+
+### Course Outcome
+- Describe what is an operating system and the role it plays. Recognize different types of operating systems and know the basic architecture of an operating system.
+- Understand the concepts related to processes and threads, including their creation, communication and scheduling. Identify and address deadlock, and can design algorithmic solutions to synchronization problems.
+- Explain how main memory and virtual memory are managed. Master algorithms involved in memory allocation and page replacement.
+- Know about the concepts and implementations of file systems. Comprehend the technologies like disk operations and RAID in mass-storage systems.
+
+
+## [Software Engineering COMP3111](https://github.com/CasperKristiansson/Software-Engineering-COMP3111)
+Methods and tools for planning, designing, implementing, validating, and maintaining large software systems. Project work to build a software system as a team, using appropriate software engineering tools and techniques.
+
+### Intended Learning Outcome
+- Ability to apply appropriate modeling techniques to design software for an application of medium complexity.
+- Ability to apply appropriate software engineering techniques to implement an application of medium complexity.
+- Ability to function effectively as a member of a software development team: organize, manage and participate in a small software development team and plan and schedule the activities involved in developing an application of medium complexity.
+
+## [COMP3632 - Principles of Cybersecurity](https://github.com/CasperKristiansson/Principles-of-Cybersecurity-COMP3632)
+The course COMP3632: Principles of Cybersecurity covers topics in cybersecurity. The course was taken at computer science at the Hong Kong University of Science and Technology, and includes in-class quizzes, assignments, hacking practice, a midterm exam, and a final exam.
+
+This course provides an introduction to the theory and application of cybersecurity. Students will develop the skills necessary to formulate and address the security needs of real-world environments. The topics of this course include cryptographic models and methods, software security, system security, network security, and conclude with emerging trends in cybersecurity.
 
 
 ## [II1302 - Weather Predictor Course Project](https://github.com/CasperKristiansson/Weather-Predictor)
