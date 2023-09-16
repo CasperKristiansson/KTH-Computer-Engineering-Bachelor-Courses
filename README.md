@@ -1,4 +1,5 @@
 # 🔭 KTH Computer Science (Datateknik) Courses
+- [II142X - Bachelor Thesis](https://github.com/CasperKristiansson/Thesis-Cloud-Computing-Pricing-and-Deployment-Efforts)
 - [ELEC3120 - Computer Communication Networks](https://github.com/CasperKristiansson/Computer-Communication-Networks-ELEC3120)
 - [COMP3511- Operating Systems](https://github.com/CasperKristiansson/Operating-Systems-COMP3511)
 - [COMP3111- Software Engineering](https://github.com/CasperKristiansson/Software-Engineering-COMP3111)
@@ -15,6 +16,9 @@
 - [IS1200 - Computer Hardware Engineering](https://github.com/CasperKristiansson/Computer-Hardware-Engineering-IS1200)
 - [ID1018 - Programming I](https://github.com/CasperKristiansson/Programmering-I-ID1018)
 
+
+## [II142X - Bachelor Thesis](https://github.com/CasperKristiansson/Thesis-Cloud-Computing-Pricing-and-Deployment-Efforts)
+The expanding adoption of cloud computing services by businesses has transformed IT infrastructure and data management in the computing space. Cloud computing offers advantages such as availability, scalability, and costeffectiveness, making it a favored choice for businesses of all sizes. The aim of this thesis is to compare private and public cloud computing services in terms of pricing and implementation effort as well as comparing the cloud providers to each other. The top three cloud providers that will be examined are Google GCP, Microsoft Azure, and Amazon AWS. The study examines different pricing models and evaluates their effectiveness in different business scenarios. In addition, the thesis also discusses the challenges associated with building and maintaining private infrastructure and the deployment of applications to cloud computing service are examined...
 
 ## [ELEC3120 - Computer Communication Networks](https://github.com/CasperKristiansson/Computer-Communication-Networks-ELEC3120)
 Overview of computer networks: network architecture and switching techniques. Introduction to the Internet, network programming, and layer architecture. Application layer: HTTP, FTP, SMTP, and CDN. Transport layer: TCP and UDP. Network layer: IP routing, NAT, and DHCP. Data link layer and local area networks: MAC protocols, Ethernet, and hubs/bridges/switches.
