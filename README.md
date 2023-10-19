@@ -1,4 +1,4 @@
-# 🔭 KTH Computer Science (Datateknik) Courses
+# 🔭 KTH Computer Engineering (Datateknik) Courses
 - [II142X - Bachelor Thesis](https://github.com/CasperKristiansson/Thesis-Cloud-Computing-Pricing-and-Deployment-Efforts)
 - [ELEC3120 - Computer Communication Networks](https://github.com/CasperKristiansson/Computer-Communication-Networks-ELEC3120)
 - [COMP3511- Operating Systems](https://github.com/CasperKristiansson/Operating-Systems-COMP3511)
